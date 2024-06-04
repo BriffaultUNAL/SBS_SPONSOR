@@ -1,0 +1,17 @@
+
+INSERT INTO archive ("archive", "table") VALUES
+    ('EDEQ.xlsx', 'edeq_20240514'),
+    ('Autos_20240509.csv', 'asistencia_autos'),
+    ('AUTOS ABRIL FALABELLA 2024.xlsx', 'asistencia_autos_falabella'),
+    ('RC_20240507.xlsx', 'asistencia_rc'),
+    ('Base Contingencia 02-05-2024.xlsx', 'asistencia_contingencia'),
+    ('Asistencia_SME_COMUNES_20240508.xlsx', 'asistencia_sme_comunes'),
+    ('VIGENTES MIDATACREDITO EXPERIAN 06052024.xlsx', 'asistencia_midatacredito'),
+    ('HOGAR ABRIL FALABELLA 2024.xlsx', 'asistencia_hogar_falabella'),
+    ('Hogar_08052024.xlsx', 'asistencia_hogar'),
+    ('Asistencias Hogar Triple A 03052024.xlsx', 'asistencia_hogar_triple_a'),
+    ('Base Temporal Metro cinco mayo.xlsx', 'asistencia_metro');
+
+INSERT INTO archive ("archive", "table") VALUES
+    ('SBS Cancer FZ - Abril 2024 - VFinal.xlsx', 'base_sbs_cancer_fz'),
+    ('VIGENTES Y ANULADAS TVNOVEDADES ABRIL 2024.xlsx', 'base_sbs_vigentes_anuladas_tvnovedades');   
